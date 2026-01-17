@@ -19,6 +19,20 @@ const currencies = {
   AED: { name: 'UAE Dirham', symbol: 'د.إ', flag: '🇦🇪' },
   TRY: { name: 'Turkish Lira', symbol: '₺', flag: '🇹🇷' },
   CHF: { name: 'Swiss Franc', symbol: 'CHF', flag: '🇨🇭' },
+  SGD: { name: 'Singapore Dollar', symbol: 'S$', flag: '🇸🇬' },
+  MXN: { name: 'Mexican Peso', symbol: '$', flag: '🇲🇽' },
+  ZAR: { name: 'South African Rand', symbol: 'R', flag: '🇿🇦' },
+  SAR: { name: 'Saudi Riyal', symbol: '﷼', flag: '🇸🇦' },
+  AED: { name: 'UAE Dirham', symbol: 'د.إ', flag: '🇦🇪' },
+  TRY: { name: 'Turkish Lira', symbol: '₺', flag: '🇹🇷' },
+  CHF: { name: 'Swiss Franc', symbol: 'CHF', flag: '🇨🇭' },
+  SGD: { name: 'Singapore Dollar', symbol: 'S$', flag: '🇸🇬' },
+  MXN: { name: 'Mexican Peso', symbol: '$', flag: '🇲🇽' },
+  ZAR: { name: 'South African Rand', symbol: 'R', flag: '🇿🇦' },
+  SAR: { name: 'Saudi Riyal', symbol: '﷼', flag: '🇸🇦' },
+  AED: { name: 'UAE Dirham', symbol: 'د.إ', flag: '🇦🇪' },
+  TRY: { name: 'Turkish Lira', symbol: '₺', flag: '🇹🇷' },
+  CHF: { name: 'Swiss Franc', symbol: 'CHF', flag: '🇨🇭' },
 };
 
 const exchangeRates = {
